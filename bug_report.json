@@ -1,1 +1,13 @@
-
+{
+  "Bug report": ["ID",
+                 "Title",
+                 "Expected result",
+                 "Fact result",
+                 "Severity",
+                 "Priority",
+                 "Environment",
+                 "Steps",
+                 "Attachments",
+                 "Build version",
+                 "Reproducibility" ]
+}
